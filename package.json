@@ -4,7 +4,7 @@
   "description": "Kimberly Biggs QA Engineer with Automation Skillset",
   "main": "index.js",
   "scripts": {
-   "start": "node index.js"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -14,7 +14,10 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url" : "https://github.com/QualityAssuranceEngineerAutomation/learning-javascript/issues"
+    "url": "https://github.com/QualityAssuranceEngineerAutomation/learning-javascript/issues"
   },
-  "homepage": "https://github.com/QualityAssuranceEngineerAutomation/learning-javascript#readme"
+  "homepage": "https://github.com/QualityAssuranceEngineerAutomation/learning-javascript#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
