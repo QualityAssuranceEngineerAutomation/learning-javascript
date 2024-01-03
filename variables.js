@@ -64,4 +64,4 @@ console.log(sentence)
 
 console.log("the value of x is " + x)
 console.log("the value of a is " + a)
-console.log("the value of e + f is "+(e+f))
+console.log("the value of e + f is "+ (e+f))
